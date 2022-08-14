@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "videos",
+			"path": "..\\paguinaweb\\videos"
+		},
+		{
+			"name": "apex-1.0.0",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "..\\paguinaweb\\img"
+		},
+		{
+			"name": "imagenes de la paguinaweb",
+			"path": "..\\paguinaweb\\imagenes de la paguinaweb"
+		},
+		{
+			"name": "proyectoimg",
+			"path": "..\\paguinaweb\\proyectoimg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "apex-1.0.0"
+	}
+}

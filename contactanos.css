@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Oswald', sans-serif;
+    /* Pattern from https://www.heropatterns.com/ */
+    background-image:  url("https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size:cover;   
+    background-color: #000000;
+    color: #fbfbfc;
+    color: #fff;
+    font-size: 17px;
+  }
