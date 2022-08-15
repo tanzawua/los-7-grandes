@@ -106,7 +106,10 @@ body {
     vertical-align: middle;
     margin-left: 8px;
 }
-
+.o-0{
+  width: 70px;
+  height: 70px;
+}
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link  {
         margin-left: 0;
