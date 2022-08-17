@@ -571,23 +571,23 @@ body {
   }
   /* social */
 .social {
-  color: #0d0d0d;
+  color: #ffffff;
   margin: 50px;
-  background-color: #030303;
+  background-color: #03030386;
   
 }
 .social p {
   text-align: center;
   font-size: 30px;
   margin-bottom: 20px;
-  background-color: #080808;
+  background-color: #08080889;
  
 }
 .links {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #0e0e0e;
+  background-color: #0e0e0e71;
   
 }
 
